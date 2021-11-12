@@ -9,6 +9,8 @@ puts "1 + 1 = 2"
 # create a repo on gitHub
 # add the remote link (remember to use SSH link on github)
 
+# basic flow
+# picka task... and get it working (advanced)
 # make changes in your code
 # add(stage) changes to the working tree git add .
 # commit those changes git commit -m'description of changes'
